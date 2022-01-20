@@ -14,7 +14,7 @@ Conference | Location | Date
 | [Bsides Tampa](https://www.youtube.com/playlist?list=PLNhlcxQZJSm-yD8mrM2dnP1dxrIMThfTe) | Tampa, USA | June 25, 2020 |
 | [Bsides SF](https://www.youtube.com/watch?v=QBQXfOUahz4&list=PLbZzXF2qC3RvlcHIxrqrsN1XhwHX8SQ-g) | San Francisco, USA | Mar 9, 2020 |
 | [RSAC](https://www.youtube.com/playlist?list=PLeUGLKUYzh_ixxt6PoRiWoJsoGtS-JmKR) | San Francisco, USA | February 24-28, 2020 |
-
+**[`^        back to top        ^`](#)**
 
 ## 2019
 Conference | Location | Date
@@ -25,6 +25,7 @@ Conference | Location | Date
 | [RuhrSec 2019 Day 1](https://www.youtube.com/playlist?list=PLbDDsIuMYNGyUPEUZnvu-cWcgHfiBHQ8H) | Bochum, Germany | May 28-29, 2019 |
 | [RuhrSec 2019 Day 2](https://www.youtube.com/playlist?list=PLbDDsIuMYNGxx4DHwYYZ-Kfnk4uDLGUcx) | Bochum, Germany | May 28-29, 2019 |
 
+**[`^        back to top        ^`](#)**
 ## 2018
 
 Conference | Location | Date
@@ -67,6 +68,7 @@ Conference | Location | Date
 |[NAVAJA NEGRA CONFERENCE](https://www.youtube.com/channel/UCdPXW0LcFUEOdj9ROkZMp4w) | Spain | October 6th, 2018 |
 |[RSA Conference 2018](https://www.rsaconference.com/videos?conference=25&keywords=&page=1) | San Francisco, USA | March 4-8, 2018 |
 |Recon Brussels ([slides](https://recon.cx/2018/brussels/slides/)) | Brussels, Belgium | Feb 2-4, 2018 |
+**[`^        back to top        ^`](#)**
 
 ## 2017
 
@@ -120,6 +122,7 @@ Conference | Location | Date
 |[Blue Hat IL](http://microsoftrnd.co.il/bluehat/Pages/Presentations.aspx) | Tel Aviv, Israel  | Jan 24 - 25, 2017 |
 |[BSides Columbus 2017](http://www.irongeek.com/i.php?page=videos/bsidescolumbus2017/mainlist) | Columbus, Ohio  | Jan 16, 2017 |
 |[ShmooCon 2017](https://archive.org/details/ShmooCon2017) | Washington, DC  | Jan 13 - 15, 2017 |
+**[`^        back to top        ^`](#)**
 
 ## 2016
 
@@ -181,6 +184,8 @@ Conference | Location | Date
 |[BSides Columbus 2016](https://www.irongeek.com/i.php?page=videos/bsidescolumbus2016/mainlist) | Columbus, OH | Jan 18, 2016 |
 |[Shmoocon 2016](https://archive.org/details/shmoocon-2016) | Washington, DC | Jan 15, 2016 |
 |[Shmoocon Firetalks 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_gTMJmDNjUcN15HK6-p4H4) | Washington, DC | Jan 15, 2016 |
+
+**[`^        back to top        ^`](#)**
 
 ## 2015
 
@@ -285,6 +290,8 @@ Conference | Location | Date
 |[BSides Manchester 2014](https://www.youtube.com/playlist?list=PLcgqQkap1lNqshXNFLodW959hNipK7Px2) | Manchester, UK | Jun 27-28, 2014 |
 |[BSidesCincy 2014](https://www.youtube.com/playlist?list=PLpAqWs_9UQkvsUhUy0fYxhwPB7am3FGMU) | Cincinnati, OH-KY-IN, USA | May 17, 2014 |
 |[Code Blue 2014](https://www.youtube.com/playlist?list=PL-XyPQsyOrNH6yjMad_XNH4Bo-I133jag) | Tokyo, Japan | Dec 18-19 2014 |
+
+**[`^        back to top        ^`](#)**
 ## 2013
 
 Conference | Location | Date
